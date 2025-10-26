@@ -1,0 +1,103 @@
+Script started on Sun Oct 26 19:50:27 2025
+[1m[7m%[27m[1m[0m                                                                                                                                                                                     ]7;file://CHANDRAKANTH-MACBOOK-AIR.local/Users/macbook%20air/Documents/MyProjects[0m[27m[24m[Jananth@CHANDRAKANTH-MACBOOK-AIR MyProjects % [K[?2004h[7mjava StudentGradeSystem[27m
+[K[A[45C[27mj[27ma[27mv[27ma[27m [27mS[27mt[27mu[27md[27me[27mn[27mt[27mG[27mr[27ma[27md[27me[27mS[27my[27ms[27mt[27me[27mm[1B[K[?2004l
+===== STUDENT GRADE MANAGEMENT SYSTEM =====
+Enter number of students: 01  1 7
+
+--- Enter details for Student 1 ---
+
+Enter Student Name: 101   Arjun
+Enter Roll Number: 101
+Enter marks for 5 subjects:
+Subject 1: 90
+Subject 2: 85
+Subject 3: 95
+Subject 4: 88
+Subject 5: 92
+
+--- Enter details for Student 2 ---
+
+Enter Student Name: Meena
+Enter Roll Number: 102
+Enter marks for 5 subjects:
+Subject 1: 75
+Subject 2: 80
+Subject 3: 78
+Subject 4: 82
+Subject 5: 79
+
+--- Enter details for Student 3 ---
+
+Enter Student Name: Rahul
+Enter Roll Number: 103
+Enter marks for 5 subjects:
+Subject 1: 55
+Subject 2: 60
+Subject 3: 58
+Subject 4: 62
+Subject 5: 65
+
+--- Enter details for Student 4 ---
+
+Enter Student Name: Priya' 
+Enter Roll Number: 104
+Enter marks for 5 subjects:
+Subject 1: 96 5
+Subject 2: 99
+Subject 3: 85
+Subject 4: 91
+Subject 5: 97
+
+--- Enter details for Student 5 ---
+
+Enter Student Name: Varun
+Enter Roll Number: 105
+Enter marks for 5 subjects:
+Subject 1: 68
+Subject 2: 72
+Subject 3: 70
+Subject 4: 65
+Subject 5: 74
+
+--- Enter details for Student 6 ---
+
+Enter Student Name: Sneha
+Enter Roll Number: 106
+Enter marks for 5 subjects:
+Subject 1: 88
+Subject 2: 82
+Subject 3: 85
+Subject 4: ^[[A    ^[[A\     91
+Subject 5: 87
+
+--- Enter details for Student 7 ---
+
+Enter Student Name: Karthik
+Enter Roll Number: 107
+Enter marks for 5 subjects:
+Subject 1: 59
+Subject 2: 64
+Subject 3: 62
+Subject 4: 60
+Subject 5: 58
+
+===========================================
+Name       RollNo     Average    Grade
+===========================================
+Arjun      101        90.00      A    
+Meena      102        78.80      C    
+Rahul      103        60.00      D    
+Priya      104        93.40      A    
+Varun      105        69.80      D    
+Sneha      106        86.60      B    
+Karthik    107        60.60      D    
+===========================================
+Program completed successfully!
+[1m[7m%[27m[1m[0m                                                                                                                                                                                     ]7;file://CHANDRAKANTH-MACBOOK-AIR.local/Users/macbook%20air/Documents/MyProjects[0m[27m[24m[Jananth@CHANDRAKANTH-MACBOOK-AIR MyProjects % [K[?2004heexit[?2004l
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+Script done on Sun Oct 26 19:54:07 2025
